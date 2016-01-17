@@ -4,4 +4,4 @@ So I started off using the auth tutorial to get started on sessions, and I added
 
 Point is, I'm at hour 2 and very frustrated.
 
-Make a change!
+At hour 3, and nowhere near completing the MVP! Got hung up on seeding it correctly.
