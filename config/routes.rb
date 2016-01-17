@@ -12,7 +12,7 @@ get '/users/:id' => 'users#edit'
 put '/users/:id/edit' => 'users#update'
 delete '/users/:id' => 'users#destroy'
 
-get '/articles' => 'articles#index'
+get '/index' => 'articles#index'
 get '/articles' => 'articles#new'
 post '/articles' => 'articles#create'
 get '/articles/:id' => 'articles#edit'
