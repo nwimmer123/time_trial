@@ -3,3 +3,5 @@
 So I started off using the auth tutorial to get started on sessions, and I added the models for articles. Then I did the basic controller actions and got the login and signup working. At least I thought they were working, but then realised that their not being given id's and the password fields aren't lining up. So, I thought I'd seed some data to have more gata to see and manipulate, but that's not working because the names of things don't match, I guess ...
 
 Point is, I'm at hour 2 and very frustrated.
+
+Make a change!
