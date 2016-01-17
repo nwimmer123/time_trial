@@ -12,4 +12,11 @@ get '/users/:id' => 'users#edit'
 put '/users/:id/edit' => 'users#update'
 delete '/users/:id' => 'users#destroy'
 
+get '/articles' => 'articles#index'
+get '/articles' => 'articles#new'
+post '/articles' => 'articles#create'
+get '/articles/:id' => 'articles#edit'
+put '/articles/:id/edit' => 'articles#update'
+delete '/articles/:id' => 'articles#destroy'
+
 end
