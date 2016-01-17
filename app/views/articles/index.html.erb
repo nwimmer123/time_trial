@@ -1,1 +1,7 @@
-index.html.erb
+<h1>List of all articles</h1>
+<% @articles.each do |article| %>
+  <p>Name: <%= article.user_id %></p>
+  <p>Article: <%= article.title %></p>
+  <br>
+
+<% end %>
